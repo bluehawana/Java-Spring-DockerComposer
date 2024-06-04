@@ -1,0 +1,14 @@
+### Add
+GET http://localhost:8080/api/add?num1=1&num2=2
+
+### Subtract
+GET http://localhost:8080/api/subtract?num1=1&num2=2
+
+### Multiply
+GET http://localhost:8080/api/multiply?num1=1&num2=2
+
+### Divide
+GET http://localhost:8080/api/divide?num1=1&num2=2
+
+### Divide by zero
+GET http://localhost:8080/api/divide?num1=1&num2=0
